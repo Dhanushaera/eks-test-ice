@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Environment specific settings for jease, should be put to \apache-tomcat\conf\Catalina\localhost\jease.xml -->
+
+<Context>
+
+  <Parameter name="JEASE_DATABASE_NAME" value="/opt/jease/db" override="1"  />
+
+</Context>
